@@ -1,10 +1,11 @@
 # Hi there, I'm Beby Raihanah - aka [bebyraihanah](https://www.linkedin.com/in/bebyraihanah/) 👋
 ## About me:
-- 🔭 I'm currently looking for new opportunities
-- 🌱 I'm currently a 6th-semester Information Systems student at Binus University while also participating in the Coding Camp 2025 by DBS Foundation and learning Machine Learning Engineering at Dicoding. 
-- 👯 I'm looking to contribute my knowledge in Information Systems while gaining industry experience in data-driven roles.
+- 🔍 I'm currently looking for new opportunities
+- 🎓 I'm currently a 6th-semester Information Systems student at Binus University while also participating in the Coding Camp 2025 by DBS Foundation and learning Machine Learning Engineering at Dicoding. 
+- 🚀 I'm looking to contribute my knowledge in Information Systems while gaining industry experience in data-driven roles.
 - 💬 Ask me about anything
 - 📫 How to reach me: bebyraihanah@gmail.com
+- 🌱 Let's connect and grow together!
 
 ## Education:
 
